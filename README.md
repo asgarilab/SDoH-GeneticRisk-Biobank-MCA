@@ -1,7 +1,7 @@
 # SDoH-GeneticRisk-Biobank-MCA
 Code accompanying the following manuscript:
 
-**Title:** A Scalable Framework to Integrate Social Determinants of Health and Genetic Risk into Disease Risk Models
+**Title:** Integrating social determinants of health and genetic risk in disease risk models
 
 **Authors:** Abhijith Biji<sup>1,2</sup>, Kathleen Ferar<sup>1,2</sup>, Vikas Pejaver<sup>1,2</sup>, Eimear E. Kenny<sup>1,2</sup>, Bian Liu<sup>3</sup>, Samira Asgari<sup>1,2 *</sup>
 
